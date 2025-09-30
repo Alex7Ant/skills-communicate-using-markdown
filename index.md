@@ -13,3 +13,9 @@ I learned how to use Markdown to better communicate changes and edits to my coll
 var name = Alex
 ```
 
+- [ ] Open pull request
+- [ ] Add a track list in your file
+- [ ] Commit changes
+- [ ] Open pull request 
+
+
