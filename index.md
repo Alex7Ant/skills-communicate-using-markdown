@@ -1,0 +1,21 @@
+# This is an h1 heading.
+## This is an h2 heading.
+### This is an h3 heading.
+#### This is an h4 heading. 
+##### This is an h5 heading.
+###### This is an h6 heading. 
+
+I learned how to use Markdown to better communicate changes and edits to my colleagues collaborating on the same branch as me!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+var name = Alex
+```
+
+- [ ] Open pull request
+- [ ] Add a track list in your file
+- [ ] Commit changes
+- [ ] Open pull request 
+
+
