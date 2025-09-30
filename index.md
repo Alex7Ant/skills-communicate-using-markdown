@@ -6,3 +6,5 @@
 ###### This is an h6 heading. 
 
 I learned how to use Markdown to better communicate changes and edits to my colleagues collaborating on the same branch as me!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
